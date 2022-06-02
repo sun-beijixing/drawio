@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-02T09:26:49.948Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="ahDdU7SCJ1IHkrhVSrA-" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-02T09:45:33.814Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="QvQ39ixAw10TDBucMesj" version="18.2.0" type="github">
   <diagram id="8Mcmq0ioaoLnQd22ZTMx" name="第 1 页">
     <mxGraphModel dx="868" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="300" pageHeight="900" math="0" shadow="0">
       <root>
@@ -62,24 +62,6 @@
           <mxGeometry x="6.330000000000041" y="42.521091811414394" width="94" height="18.759305210918114" as="geometry" />
         </mxCell>
         <mxCell id="xZrQEDNqEejDbcOTDLVU-32" value="票据验证" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;fillColor=#f9f7ed;strokeColor=#36393d;dashed=1;" parent="xZrQEDNqEejDbcOTDLVU-27" vertex="1">
-          <mxGeometry x="6.330000000000041" y="65.6575682382134" width="94" height="18.759305210918114" as="geometry" />
-        </mxCell>
-        <mxCell id="xZrQEDNqEejDbcOTDLVU-33" value="" style="group" parent="xZrQEDNqEejDbcOTDLVU-12" vertex="1" connectable="0">
-          <mxGeometry x="472" y="16.258064516129032" width="106.65999999999997" height="87.54342431761786" as="geometry" />
-        </mxCell>
-        <mxCell id="xZrQEDNqEejDbcOTDLVU-34" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="xZrQEDNqEejDbcOTDLVU-33" vertex="1">
-          <mxGeometry width="106.66" height="87.54342431761786" as="geometry" />
-        </mxCell>
-        <mxCell id="xZrQEDNqEejDbcOTDLVU-35" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;统一风险分析&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontSize=16;" parent="xZrQEDNqEejDbcOTDLVU-33" vertex="1">
-          <mxGeometry x="13.830000000000013" y="1.250620347394541" width="79" height="18.759305210918114" as="geometry" />
-        </mxCell>
-        <mxCell id="xZrQEDNqEejDbcOTDLVU-36" value="实时审计" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;fillColor=#f9f7ed;strokeColor=#36393d;dashed=1;" parent="xZrQEDNqEejDbcOTDLVU-33" vertex="1">
-          <mxGeometry x="6.3300000000000125" y="20.009925558312656" width="94" height="18.759305210918114" as="geometry" />
-        </mxCell>
-        <mxCell id="xZrQEDNqEejDbcOTDLVU-37" value="应用分析" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;fillColor=#f9f7ed;strokeColor=default;dashed=1;" parent="xZrQEDNqEejDbcOTDLVU-33" vertex="1">
-          <mxGeometry x="6.330000000000041" y="42.521091811414394" width="94" height="18.759305210918114" as="geometry" />
-        </mxCell>
-        <mxCell id="xZrQEDNqEejDbcOTDLVU-38" value="认证分析" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;fillColor=#f9f7ed;strokeColor=#36393d;dashed=1;" parent="xZrQEDNqEejDbcOTDLVU-33" vertex="1">
           <mxGeometry x="6.330000000000041" y="65.6575682382134" width="94" height="18.759305210918114" as="geometry" />
         </mxCell>
         <mxCell id="umusgo-0xjPPcqwDhXVJ-2" value="" style="group" vertex="1" connectable="0" parent="xZrQEDNqEejDbcOTDLVU-12">
