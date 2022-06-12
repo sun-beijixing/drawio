@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-12T10:02:28.003Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="rJHrUlVrQGoxfUSO8nuv" version="20.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-12T10:11:10.731Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="25RvAffYqq-RgP3l83MQ" version="20.0.0" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="868" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -81,6 +81,45 @@
           <mxGeometry x="-0.1467" y="1" relative="1" as="geometry">
             <mxPoint y="-19" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qw9EHCWrlxvRK0lsngOA-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fillColor=none;strokeColor=#36393d;dashed=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="65" width="150" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="qw9EHCWrlxvRK0lsngOA-29" value="&lt;b&gt;下游信息化应用账号同步&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="695" y="85" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qw9EHCWrlxvRK0lsngOA-30" value="工程数据中心" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Verdana;fontColor=#7EA6E0;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="705" y="120" width="120" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="qw9EHCWrlxvRK0lsngOA-32" value="业务支撑平台" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Verdana;fontColor=#7EA6E0;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="705" y="146.5" width="120" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="qw9EHCWrlxvRK0lsngOA-33" value="调水调沙管控应用" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Verdana;fontColor=#7EA6E0;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="705" y="309.5" width="120" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="qw9EHCWrlxvRK0lsngOA-34" value="区块链应用" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Verdana;fontColor=#7EA6E0;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="705" y="173" width="120" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="qw9EHCWrlxvRK0lsngOA-35" value="工程运行维护应用" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Verdana;fontColor=#7EA6E0;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="705" y="364.5" width="120" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="qw9EHCWrlxvRK0lsngOA-36" value="工程建造管控应用" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Verdana;fontColor=#7EA6E0;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="705" y="199.5" width="120" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="qw9EHCWrlxvRK0lsngOA-37" value="施工风险管控应用" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Verdana;fontColor=#7EA6E0;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="705" y="227" width="120" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="qw9EHCWrlxvRK0lsngOA-38" value="水沙水质检测应用" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Verdana;fontColor=#7EA6E0;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="705" y="254.5" width="120" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="qw9EHCWrlxvRK0lsngOA-39" value="水库调度运用应用" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Verdana;fontColor=#7EA6E0;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="705" y="282" width="120" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="qw9EHCWrlxvRK0lsngOA-40" value="工程安全运行应用" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Verdana;fontColor=#7EA6E0;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="705" y="337.5" width="120" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="qw9EHCWrlxvRK0lsngOA-43" value="应急事件管理应用" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Verdana;fontColor=#7EA6E0;strokeWidth=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="705" y="391" width="120" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
