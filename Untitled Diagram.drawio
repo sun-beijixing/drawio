@@ -1,11 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2022-06-12T09:48:34.544Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="L2BMPzZ-bVkGqDqPGAqg" version="20.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-12T09:59:39.517Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="zVo5fgti7SlKM4mUKv1H" version="20.0.0" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="868" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qw9EHCWrlxvRK0lsngOA-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fillColor=default;gradientColor=#DEDEDE;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="qw9EHCWrlxvRK0lsngOA-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fillColor=default;gradientColor=#DEDEDE;strokeColor=#666666;arcSize=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="40" width="800" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="qw9EHCWrlxvRK0lsngOA-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fillColor=#d5e8d4;gradientColor=none;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="140" y="70" width="150" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="qw9EHCWrlxvRK0lsngOA-5" value="应用" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fillColor=#cdeb8b;strokeColor=#36393d;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="155" y="130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qw9EHCWrlxvRK0lsngOA-6" value="功能" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fillColor=#cdeb8b;strokeColor=#36393d;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="155" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qw9EHCWrlxvRK0lsngOA-7" value="按钮" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fillColor=#cdeb8b;strokeColor=#36393d;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="155" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qw9EHCWrlxvRK0lsngOA-8" value="数据" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fillColor=#cdeb8b;strokeColor=#36393d;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="155" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qw9EHCWrlxvRK0lsngOA-10" value="接口" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fillColor=#cdeb8b;strokeColor=#36393d;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="155" y="370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qw9EHCWrlxvRK0lsngOA-11" value="&lt;b&gt;权限资源&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="155" y="90" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qw9EHCWrlxvRK0lsngOA-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="440" y="70" width="150" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="qw9EHCWrlxvRK0lsngOA-14" value="应用授权" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fillColor=#ffe6cc;strokeColor=#d79b00;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="455" y="139" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qw9EHCWrlxvRK0lsngOA-15" value="角色授权" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fillColor=#ffe6cc;strokeColor=#d79b00;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="455" y="239" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qw9EHCWrlxvRK0lsngOA-16" value="角色组授权" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fillColor=#ffe6cc;strokeColor=#d79b00;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="455" y="289" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qw9EHCWrlxvRK0lsngOA-18" value="接口授权" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fillColor=#ffe6cc;strokeColor=#d79b00;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="455" y="339" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qw9EHCWrlxvRK0lsngOA-19" value="&lt;b&gt;授权对象&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="455" y="90" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qw9EHCWrlxvRK0lsngOA-20" value="用户授权" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fillColor=#ffe6cc;strokeColor=#d79b00;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="455" y="189" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
